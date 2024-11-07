@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
  the current state of the server
 #Installs Nginx on the server
 #Changes the user and user group ownership for editing file
